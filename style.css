@@ -1,0 +1,17 @@
+body {
+    background: #d2d2d2;
+}
+
+.accordion-button {
+    background: green;
+    color: black;
+}
+
+.accordion-body {
+    background: #fff;
+    background-color: olive;
+}
+.accordion-header{
+    background-color: green;
+    color: black;
+}
